@@ -6,10 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "npx nodemon src/index",
-    "start": "node src/index",
-    "ls": "ls",
-    "mkdir": "mkdir",
-    "rmdir": "rmdir"
+    "start": "node src/index"
   },
   "keywords": [],
   "author": "",
